@@ -93,7 +93,7 @@
     },
     {
         "name": "Eggs with bacon",
-        "type": "Breakfast",
+        "type": "Breakfasts",
         "ingredients": [
             {
                 "quantity": "1 quart",
