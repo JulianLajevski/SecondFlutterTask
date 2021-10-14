@@ -1,7 +1,7 @@
 [
     {
         "name": "Fish soup",
-        "type": "Soups",
+        "type": "Soup",
         "ingredients": [
             {
                 "quantity": "1",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Vafles",
-        "type": "Deserts",
+        "type": "Desert",
         "ingredients": [
             {
                 "quantity": "1 lb",
@@ -93,7 +93,7 @@
     },
     {
         "name": "Eggs with bacon",
-        "type": "Breakfasts",
+        "type": "Breakfast",
         "ingredients": [
             {
                 "quantity": "1 quart",
