@@ -1,6 +1,6 @@
 [
     {
-        "name": "Crock Pot Roast",
+        "name": "Fish soup",
         "type": "Soups",
         "ingredients": [
             {
@@ -45,7 +45,7 @@
         "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
     {
-        "name": "Roasted Asparagus",
+        "name": "Vafles",
         "type": "Deserts",
         "ingredients": [
             {
@@ -92,7 +92,7 @@
         "originalURL": "http://www.food.com/recipe/roasted-asparagus-50847"
     },
     {
-        "name": "Curried Lentils and Rice",
+        "name": "Eggs with bacon",
         "type": "Breakfast",
         "ingredients": [
             {
@@ -138,7 +138,7 @@
         "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
     },
     {
-        "name": "Big Night Pizza",
+        "name": "Vegan pizza",
         "type": "Vegan",
         "ingredients": [
             {
