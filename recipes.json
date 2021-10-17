@@ -2,6 +2,7 @@
     {
         "name": "Fish soup",
         "type": "Soup",
+        "id": 1,
         "ingredients": [
             {
                 "quantity": "1",
@@ -42,6 +43,7 @@
     {
         "name": "Vafles",
         "type": "Desert",
+        "id": 2,
         "ingredients": [
             {
                 "quantity": "1 lb",
@@ -77,6 +79,7 @@
     {
         "name": "Eggs with bacon",
         "type": "Breakfast",
+        "id": 3,
         "ingredients": [
             {
                 "quantity": "1 quart",
@@ -117,6 +120,7 @@
     {
         "name": "Vegan pizza",
         "type": "Vegan",
+        "id": 4,
         "ingredients": [
             {
                 "quantity": "5 teaspoons",
