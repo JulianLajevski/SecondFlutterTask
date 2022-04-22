@@ -3,28 +3,29 @@
         "name": "Buteliukas",
         "type": "Aparatas1",
         "id": 1,
-        "minutes": "2°C",
-        "imageURL": "https://png.pngtree.com/png-vector/20190120/ourlarge/pngtree-cola-drink-drink-tasty-drink-png-image_484504.jpg"
+        "minutes": 2,
+        "imageURL": "https://img.cppng.com/download/2020-06/17-coca-cola-can-png-image.png",
+        "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
     {
         "name": "Buteliukas",
         "type": "Aparatas1",
         "id": 2,
-        "minutes": "10°C",
-        "imageURL": "https://png.pngtree.com/png-vector/20190120/ourlarge/pngtree-cola-drink-drink-tasty-drink-png-image_484504.jpg"
+        "minutes": 0,
+        "imageURL": "https://img.cppng.com/download/2020-06/17-coca-cola-can-png-image.png"
     },
     {
         "name": "Buteliukas",
         "type": "Aparatas2",
         "id": 3,
-        "minutes": "0°C",
-        "imageURL": "https://png.pngtree.com/png-vector/20190120/ourlarge/pngtree-cola-drink-drink-tasty-drink-png-image_484504.jpg"
+        "minutes": 10,
+        "imageURL": "https://img.cppng.com/download/2020-06/17-coca-cola-can-png-image.png"
     },
     {
         "name": "Buteliukas",
         "type": "Aparatas2",
         "id": 4,
-        "minutes": "12°C",
-        "imageURL": "https://png.pngtree.com/png-vector/20190120/ourlarge/pngtree-cola-drink-drink-tasty-drink-png-image_484504.jpg"
+        "minutes": 15,
+        "imageURL": "https://img.cppng.com/download/2020-06/17-coca-cola-can-png-image.png"
     }
 ]
