@@ -1,7 +1,7 @@
 [
     {
-        "name": "Fish soup",
-        "type": "Soup",
+        "name": "Buteliukas1",
+        "type": "Aparatas1",
         "id": 1,
         "ingredients": [
             {
@@ -41,8 +41,8 @@
         "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
     {
-        "name": "Vafles",
-        "type": "Desert",
+        "name": "Buteliukas2",
+        "type": "Aparatas1",
         "id": 2,
         "ingredients": [
             {
@@ -77,8 +77,8 @@
         "imageURL": "https://www.tvfreaks.gr/wp-content/uploads/2020/05/vafles-pou-tha-xetrelanoun-tin-ikogenia-i-telia-syntagi-pou-tha-sas-synarpasi-1024x576.jpg"
     },
     {
-        "name": "Eggs with bacon",
-        "type": "Breakfast",
+        "name": "Buteliukas3",
+        "type": "Aparatas2",
         "id": 3,
         "ingredients": [
             {
@@ -118,8 +118,8 @@
         "imageURL": "https://cdn.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-second.jpg"
     },
     {
-        "name": "Vegan pizza",
-        "type": "Vegan",
+        "name": "Buteliukas4",
+        "type": "Aparatas2",
         "id": 4,
         "ingredients": [
             {
