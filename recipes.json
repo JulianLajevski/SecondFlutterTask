@@ -1,6 +1,6 @@
 [
     {
-        "name": "Buteliukas1",
+        "name": "Buteliukas",
         "type": "Aparatas1",
         "id": 1,
         "ingredients": [
@@ -41,7 +41,7 @@
         "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
     {
-        "name": "Buteliukas2",
+        "name": "Buteliukas",
         "type": "Aparatas1",
         "id": 2,
         "ingredients": [
@@ -77,7 +77,7 @@
         "imageURL": "https://www.tvfreaks.gr/wp-content/uploads/2020/05/vafles-pou-tha-xetrelanoun-tin-ikogenia-i-telia-syntagi-pou-tha-sas-synarpasi-1024x576.jpg"
     },
     {
-        "name": "Buteliukas3",
+        "name": "Buteliukas",
         "type": "Aparatas2",
         "id": 3,
         "ingredients": [
@@ -118,7 +118,7 @@
         "imageURL": "https://cdn.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-second.jpg"
     },
     {
-        "name": "Buteliukas4",
+        "name": "Buteliukas",
         "type": "Aparatas2",
         "id": 4,
         "ingredients": [
