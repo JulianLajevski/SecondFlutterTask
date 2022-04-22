@@ -1,61 +1,178 @@
 [
     {
-        "name": "Buteliukas",
+        "name": "Buteliukas1",
         "type": "Aparatas1",
         "id": 1,
-        "minutes": 2,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "name": " beef roast",
+                "type": "Meat"
+            },
+            {
+                "quantity": "1 package",
+                "name": "brown gravy mix",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 package",
+                "name": "dried Italian salad dressing mix",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 package",
+                "name": "dry ranch dressing mix",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "water",
+                "type": "Drinks"
+            }
+        ],
+        "steps": [
+            "Place beef roast in crock pot.",
+            "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+            "Pour the water around the roast.",
+            "Cook on low for 7-9 hours."
+        ],
+        "minutes": 20,
+        "imageURL": "https://www.simplyrecipes.com/thmb/cIcZ0oc0JCXRPYU9fq7ah4jChtU=/735x0/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__02__fish-stew-vertical-c-1600-bcd441aba99349458c90e59d34ace1c3.jpg",
         "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
     },
     {
-        "name": "Buteliukas",
+        "name": "Buteliukas2",
         "type": "Aparatas1",
         "id": 2,
-        "minutes": 0,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": " asparagus",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 1/2 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "kosher salt",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 425°F.",
+            "Cut off the woody bottom part of the asparagus spears and discard.",
+            "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+            "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+            "Sprinkle with salt.",
+            "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+            "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+            "They should be tender when pierced with the tip of a knife.",
+            "The tips of the spears will get very brown but watch them to prevent burning.",
+            "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+        ],
+        "minutes": 45,
+        "imageURL": "https://www.tvfreaks.gr/wp-content/uploads/2020/05/vafles-pou-tha-xetrelanoun-tin-ikogenia-i-telia-syntagi-pou-tha-sas-synarpasi-1024x576.jpg"
     },
     {
-        "name": "Buteliukas",
+        "name": "Buteliukas3",
         "type": "Aparatas2",
         "id": 3,
+        "ingredients": [
+            {
+                "quantity": "1 quart",
+                "name": "beef broth",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "dried green lentils",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "basmati rice",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "curry powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Bring broth to a low boil.",
+            "Add curry powder and salt.",
+            "Cook lentils for 20 minutes.",
+            "Add rice and simmer for 20 minutes.",
+            "Enjoy!"
+        ],
         "minutes": 10,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
+        "imageURL": "https://cdn.ruled.me/wp-content/uploads/2019/09/classic-bacon-and-eggs-second.jpg"
     },
     {
-        "name": "Buteliukas",
+        "name": "Buteliukas4",
         "type": "Aparatas2",
         "id": 4,
-        "minutes": 15,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
-    },
-    {
-        "name": "Buteliukas",
-        "type": "Aparatas4",
-        "id": 5,
-        "minutes": 2,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png",
-        "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
-    },
-    {
-        "name": "Buteliukas",
-        "type": "Aparatas1",
-        "id": 6,
-        "minutes": 0,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
-    },
-    {
-        "name": "Buteliukas",
-        "type": "Aparatas3",
-        "id": 7,
-        "minutes": 2,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png",
-        "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
-    },
-    {
-        "name": "Buteliukas",
-        "type": "Aparatas1",
-        "id": 8,
-        "minutes": 18,
-        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
-    },
+        "ingredients": [
+            {
+                "quantity": "5 teaspoons",
+                "name": "yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce",
+                "type": "Misc"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+            "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+            "Knead the dough and spread onto a pan.",
+            "Spread pizza sauce and sprinkle cheese.",
+            "Add any optional toppings as you wish.",
+            "Bake at 400 deg Fahrenheit for 15 minutes.",
+            "Enjoy!"
+        ],
+        "minutes": 120,
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/vegan-pizza-67125d6.jpg"
+    }
 ]
