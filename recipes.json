@@ -174,5 +174,237 @@
         ],
         "minutes": 16,
         "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
+    },
+    {
+        "name": "Buteliukas",
+        "type": "Aparatas3",
+        "id": 5,
+        "ingredients": [
+            {
+                "quantity": "5 teaspoons",
+                "name": "yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce",
+                "type": "Misc"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+            "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+            "Knead the dough and spread onto a pan.",
+            "Spread pizza sauce and sprinkle cheese.",
+            "Add any optional toppings as you wish.",
+            "Bake at 400 deg Fahrenheit for 15 minutes.",
+            "Enjoy!"
+        ],
+        "minutes": 12,
+        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
+    },
+    {
+        "name": "Buteliukas",
+        "type": "Aparatas1",
+        "id": 6,
+        "ingredients": [
+            {
+                "quantity": "5 teaspoons",
+                "name": "yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce",
+                "type": "Misc"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+            "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+            "Knead the dough and spread onto a pan.",
+            "Spread pizza sauce and sprinkle cheese.",
+            "Add any optional toppings as you wish.",
+            "Bake at 400 deg Fahrenheit for 15 minutes.",
+            "Enjoy!"
+        ],
+        "minutes": 0,
+        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
+    },
+    {
+        "name": "Buteliukas",
+        "type": "Aparatas2",
+        "id": 7,
+        "ingredients": [
+            {
+                "quantity": "5 teaspoons",
+                "name": "yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce",
+                "type": "Misc"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+            "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+            "Knead the dough and spread onto a pan.",
+            "Spread pizza sauce and sprinkle cheese.",
+            "Add any optional toppings as you wish.",
+            "Bake at 400 deg Fahrenheit for 15 minutes.",
+            "Enjoy!"
+        ],
+        "minutes": 6,
+        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
+    },
+    {
+        "name": "Buteliukas",
+        "type": "Aparatas1",
+        "id": 8,
+        "ingredients": [
+            {
+                "quantity": "5 teaspoons",
+                "name": "yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce",
+                "type": "Misc"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+            "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+            "Knead the dough and spread onto a pan.",
+            "Spread pizza sauce and sprinkle cheese.",
+            "Add any optional toppings as you wish.",
+            "Bake at 400 deg Fahrenheit for 15 minutes.",
+            "Enjoy!"
+        ],
+        "minutes": 1,
+        "imageURL": "https://www.pngkey.com/png/detail/116-1167083_coca-cola-can-355ml-coca-cola.png"
     }
 ]
